@@ -1,4 +1,4 @@
-import * as newsService from './news'
+import * as newsService from './weather'
 
 export { 
     newsService
